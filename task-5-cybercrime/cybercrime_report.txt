@@ -1,0 +1,31 @@
+Part 1: Case Study – UPI QR Code Fraud
+
+
+The Hook and Execution
+Unified Payments Interface (UPI) fraud has become one of the most prevalent cybercrimes due to its real-time nature. A common tactic is the "QR Code Scam." It usually begins on secondary marketplaces like OLX or Facebook Marketplace. A fraudster poses as a buyer and contacts a seller, claiming they want to pay an advance. Instead of sending money, the criminal sends a QR code via WhatsApp, instructing the victim to "scan this to receive the payment."
+
+The deception lies in the technical flow of UPI: scanning a QR code is strictly for making a payment, never for receiving one. When the victim scans the code and enters their UPI PIN, they aren't authorizing a deposit; they are authorizing a debit. The money is instantly transferred from the victim’s bank account to the fraudster’s account, which is often a "mule account" used to layer the stolen funds.
+
+The Consequences
+The impact is often devastating. Physically, the loss is immediate; because UPI is an instant settlement system, the money is usually withdrawn or moved within seconds, making recovery difficult. Emotionally, victims feel a deep sense of violation and guilt. Legally, these crimes are difficult to prosecute because attackers often use fake IDs to register SIM cards and bank accounts, leaving a cold trail for cybercells.
+
+2. Part 2: 8 Essential Tips for Online Safety
+
+
+To stay protected in an increasingly digital world, follow these security protocols:
+
+Use Multi-Factor Authentication (MFA): Always enable a second layer of security (like an authenticator app or SMS code) on your email and social media accounts.
+
+Verify the Source: Never click on links in unsolicited emails or SMS messages. If a bank "alerts" you, log in through their official app instead of clicking the link provided.
+
+Update Regularly: Keep your operating system and apps updated to patch security vulnerabilities that hackers exploit.
+
+Use Strong, Unique Passwords: Avoid using "123456" or your pet's name. Use a password manager to maintain complex, different passwords for every site.
+
+Be Skeptical of "Urgency": Cybercriminals create a sense of panic (e.g., "Your account will be blocked in 2 hours!"). Take a breath and verify the claim independently.
+
+UPI Safety – PIN is for Sending: Remember that you never need to enter your UPI PIN to receive money. If someone asks you to enter your PIN or scan a code to "get" money, it is 100% a scam.
+
+UPI Safety – Verify the Name: Before hitting 'Send' on any UPI transaction, double-check the verified name that appears on the screen to ensure it matches the person you intend to pay.
+
+The 1930 Helpline: If you are a victim of financial fraud, immediately call 1930, the national cybercrime helpline, or report it at cybercrime.gov.in. Reporting within the "Golden Hour" (the first 2 hours) significantly increases the chances of the bank freezing the stolen funds.
