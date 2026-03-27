@@ -1,5 +1,5 @@
-Task 5: Cybercrime Case Study
-Case Study: UPI QR Code Fraud
+**Task 5: Cybercrime Case Study
+**Case Study: UPI QR Code Fraud
 How it Happens
 Unified Payments Interface (UPI) fraud has become one of the most prevalent cybercrimes due to its real-time nature. A common tactic is the "QR Code Scam." It usually begins on secondary marketplaces like OLX or Facebook Marketplace. A fraudster poses as a buyer and contacts a seller, claiming they want to pay an advance. Instead of sending money, the criminal sends a QR code via WhatsApp, instructing the victim to "scan this to receive the payment."
 
@@ -8,7 +8,8 @@ The deception lies in the technical flow of UPI: scanning a QR code is strictly 
 Consequences
 The impact is often devastating. Financially, the loss is immediate; because UPI is an instant settlement system, the money is usually withdrawn or moved within seconds, making recovery difficult. Emotionally, victims feel a deep sense of violation and guilt. Legally, these crimes are difficult to prosecute because attackers often use fake IDs to register SIM cards and bank accounts, leaving a cold trail for cybercells.
 
-8 Tips to Stay Safe Online
+**8 Tips to Stay Safe Online
+
 Enable Multi-Factor Authentication (MFA): Always add a second layer of security (like an OTP or Authenticator app) to your email and social media accounts.
 
 Verify Links Before Clicking: Never click on suspicious links in SMS or emails. Hover over a link to see the actual URL before interacting.
