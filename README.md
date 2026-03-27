@@ -22,8 +22,8 @@ This repository serves as a Digital Literacy Portfolio, documenting five key tas
 **Folder:** `/task-1-presentation/` 
 
 ### Task 2: Student Digital Portfolio (Module 2)
-**Goal:** Establish a professional presence on GitHub and LinkedIn[cite: 31, 33].
-**Platforms:** GitHub, LinkedIn, and [Kaggle/Stack Overflow][cite: 33].
+**Goal:** Establish a professional presence on GitHub and LinkedIn.
+**Platforms:** GitHub, LinkedIn, and Kaggle.
 **Folder:** `/task-2-portfolio/` 
 
 ### Task 3: Coding & Collaboration Platforms (Module 3)
