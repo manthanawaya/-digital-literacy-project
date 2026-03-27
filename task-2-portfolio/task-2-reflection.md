@@ -1,6 +1,3 @@
-###### In this module, I established my professional digital foundation by setting up profiles on LinkedIn, GitHub, and Kaggle. On GitHub, I created a personalized profile README that displays my branch and my academic goals. LinkedIn was used to document my current education at VIT Bhopal, while Kaggle will serve as a platform for my future data science projects.
+In this module I made my digital foundation by setting up profiles on LinkedIn, GitHub and Kaggle. On GitHub I made a profile that shows what I am working on and what I want to achieve . I used LinkedIn to talk about what I'm studying at VIT Bhopal right now. Kaggle will be where I put my data science projects in the future.
 
-###### 
-
-###### I plan to use these platforms as a "living resume" over the next four years. GitHub will host my coding assignments and hackathon projects, while LinkedIn will be my primary tool for networking with alumni and industry professionals for internships. By starting these profiles in my first year, I aim to build a consistent "digital footprint" that demonstrates my growth as an engineer by the time I reach my final year placements.
-
+I want to use these websites like a resume that I keep updating over the four years. GitHub will have all my coding homework and projects from hackathons. LinkedIn will be how I meet people who used to go to my school and professionals in the field for internships. By making these profiles in my year I want to show that I am growing as an engineer, on LinkedIn, GitHub and Kaggle by the time I am looking for a job after I graduate from VIT Bhopal.
