@@ -1,0 +1,4 @@
+###### For this task, I designed a one-page visual resource using Canva to help my peers understand the core pillars of digital literacy. My design specifically highlights three critical areas: Safe Internet Practices, Email Etiquette, and Professional Online Presence. I used a clean, modular layout with icons to represent each section, ensuring the information is easy to digest for a first-year student.
+
+###### What I found particularly interesting during this process was how much information can be conveyed through simple visual hierarchy rather than dense paragraphs. One challenge I faced was narrowing down the vast topic of "Safe Internet Practices" into just three actionable tips that would fit the visual space without cluttering it. Ultimately, I focused on password hygiene and two-factor authentication as the most immediate needs for our batch
+
